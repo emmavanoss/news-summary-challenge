@@ -19,7 +19,7 @@ Here's what loads when you "hit the nooze button":
 ![screenshot1](/images/screenshot1.png)
 
 And when you click 'summary' under an article:
-![screenshot1](/images/screenshot2.png)
+![screenshot2](/images/screenshot2.png)
 
 ## Technologies
 
